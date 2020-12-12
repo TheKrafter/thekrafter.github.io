@@ -14,7 +14,7 @@
  * make all fonts sans-serif
  */
 	h1 {
-    color: black;
+    color: red;
     font-size: 3em;
     font-family: sans-serif;
     }
