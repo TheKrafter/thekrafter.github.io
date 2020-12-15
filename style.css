@@ -11,6 +11,14 @@
         background: gray;
         }
 /**
+ * Make font red for theme with #red
+ */
+ 
+	#red  {
+        color: red;
+        }
+		
+/**
  * make all fonts sans-serif
  */
 	h1 {
