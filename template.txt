@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-		TheKrafter's GitPage
+		TheKrafter's GitPage- Template
 		</title>
 		<link rel="shortcut icon" type="icon/ico" href=”img/ico1.ico”/>
 		<link rel="stylesheet" type="text/css" href="/style.css">
@@ -19,6 +19,7 @@
     <li><a href="/">Home</a></li>
 	<li><a href="/about">About</a></li>
 	<li><a href="/contact">Contact</a></li>
+	<li><a href="/how">How</a></li>
 	</ul>
 	
 	</body>
