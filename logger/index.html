@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+		TheKrafter's GitPage- Logging your IP Address...
+		</title>
+		<link rel="shortcut icon" href=”/img/ico1.ico”/>
+		<link rel="apple-touch-icon" href="/img/img1.png">
+		<link rel="icon" sizes="192x192" href="/img/img1.png/">
+		<link rel="stylesheet" type="text/css" href="/style.css">
+		<link rel="stylesheet" src="/normalization.css" />
+			<meta charset="UTF-8">
+			<meta name="description" content="TheKrafter2217's GitPage- This is a PRIVATE PAGE! If you're seeing this in search results, you probably should switch search engines becuse the one you're using disobeys robots.txt">.
+			<meta name="author" content="TheKrafter2217">
+	</head>
+	<body>
+	<img src="/img/img1.png" alt="Krafter's Avatar" 
+		height="100" width="100">
+	<h1>Your IP Adress has been recorded.</h1> <br /> <h2>Thank You for your participation.</h2>
+	<ul id="nav">
+    <li><a href="/">Home</a></li>
+	</ul>
+	<?php
+
+if (!empty($_SERVER['HTTP_CLIENT_IP']))   //check ip from share internet
+    {
+      $ipaddress = $_SERVER['HTTP_CLIENT_IP']."\r\n";
+    }
+elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))   //to check if ip is pass from proxy
+    {
+      $ipaddress = $_SERVER['HTTP_X_FORWARDED_FOR']."\r\n";
+    }
+else
+    {
+      $ipaddress = $_SERVER['REMOTE_ADDR']."\r\n";
+    }
+
+$file = 'ip.txt';  //this is the file to which the IP address will be written; name it your way.
+
+$fp = fopen($file, 'a');
+
+fwrite($fp, $ipaddress);
+
+fclose($fp);
+
+?>
+	</body>
+</html>
