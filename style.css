@@ -9,7 +9,7 @@ body {
             /* Head Styles */
 
 #head {
-  width: 100%;
+  width: 95%;
   height: 10%;
   background-color: DarkRed;
   color: WhiteSmoke;
@@ -62,7 +62,7 @@ body {
 }
 
 #content {
-    width: 100%;
+    width: 95%;
     height: 1080px;
     background-color: #696969;
     color: WhiteSmoke;
@@ -79,7 +79,7 @@ body {
             /* Footer Styles */
 
 #footer {
-    width: 100%
+    width: 90%;
     height: 200px;
     background-color: #000000;
     color: WhiteSmoke;
@@ -90,8 +90,6 @@ body {
     padding-right: 10%;
     padding-top: 5%;
     padding-bottom: 30px;
-    margin-top:0%;
-    margin-left:0%;
 }
 #footer a {
     color:WhiteSmoke;
