@@ -6,25 +6,34 @@
     <title>Krafter's GitPage - About</title>
     <link rel="stylesheet" type="text/css" href="/style.css">
     <link rel="stylesheet" type="text/css" href="/normalization.css">
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <!-- bootstrap -->
 </head>
   <body>
-
-  <span id="all">
-    <div id="head">
-      <h1><img id="icon" src="/img/kftr-logo.png" alt="krafter logo"> Krafter's GitPage</h1>
-        <span id="nav">
-            <a href="/">Home</a> <a href="/about">About</a> <a href="/socials">Socials</a>
-        </span>
-    </div>
-    <div id="content">
+  <div class="container-fluid">
+    <div class="row" id="head">
+        <div class="col-sm-6">
+            <h1><img id="icon" src="img/kftr-logo.png" alt="krafter logo"> Krafter's GitPage</h1>
+        </div>
+        <div id="nav">
+            <div class="col-sm-2"><a href="/">Home</a></div>
+            <div class="col-sm-2"><a href="/about">About</a></div>
+            <div class="col-sm-2"><a href="/socials">Socials</a></div>
+        </div>
+      </div>
+    <div class="row" id="content">
         <h3>About</h3>
-        <p>
+        <div class="col-md-9">
+            <p>
             I enjoy using Linux (Pop!_OS is my Home). I'm not tech-savvy enough to inject the "ATI Radeon HD 4670" drivers of my 2010 iMac into the Pop!_OS installer, so only my 2012 mbp is blessed with such a privelege for now. I play Minecraft, listen to <a href="https://www.last.fm/music/Powfu">Powfu</a>, and watch <a href="https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw">Linus Tech Tips.</a> I hope to get a PC soon, but the current chip shortage isn't helping. I'm intorverted have virtually 0 intimate friends :( and scroll reddit too much.
-        </p>
+            </p>
+        </div>
     </div>
-    <div id="footer">
+    <div class="row" id="footer">
         <h7>Copyright &copy; 2021 Krafter. <a href="https://mit-license.org">Published Under the MIT License</a></h7>
     </div>
-  </span>
+  </div>
   </body>
 </html>

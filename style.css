@@ -1,6 +1,7 @@
 /* CSS Stylesheet for Krafter's GitPage: https://thekrafter.github.io */
+/* Published under the MIT license */
 
-            /* General/Non-Specific Styles */
+            /* General or Non-Specific Styles */
 
 body {
     font-family: Monospace;
@@ -9,43 +10,26 @@ body {
             /* Head Styles */
 
 #head {
-  width: 95%;
-  height: 10%;
   background-color: DarkRed;
   color: WhiteSmoke;
   font-family: Melno, Monospace;
-  padding-left: 5%;
-  padding-right:5%;
-  padding-top:8%;
-  padding-bottom: 5%;
-  margin-top:0%;
-  margin-left:0%;
-  margin-bottom: 0px;
+  min-height: 25px;
 }
 #head h1 {
     size:20px;
-    padding-left: 1%;
 }
 #head img {
     width:10%;
-    padding-right: 10%;
 }
 #nav a{
     text-decoration: none;
     color: WhiteSmoke;
-    padding-left:1%;
-    padding-right:1%;
-    padding-top:1%;
-    padding-bottom:1%;
+    padding: 2px;
 }
 #nav a:hover {
     text-decoration: none;
     color: WhiteSmoke;
     background-color: Maroon;
-    padding-left:1%;
-    padding-right:1%;
-    padding-top:1%;
-    padding-bottom:1%;
 }
 
             /* Content Styles */
@@ -60,36 +44,26 @@ body {
 #content a:hover {
     color: Maroon;
 }
+#content h3{
+    padding: 10px 15px;
+}
 
 #content {
-    width: 90%;
-    height: 1080px;
     background-color: #696969;
     color: WhiteSmoke;
     font-family: Melno, Monospace;
-    padding-left: 10%;
-    padding-right: 0%;
-    padding-top: 2%;
-    padding-bottom: 0px;
-    margin-top:0%;
-    margin-left:0%;
-
+    min-height: 720px;
 }
 
             /* Footer Styles */
 
 #footer {
-    width: 90%;
-    height: 200px;
     background-color: #000000;
     color: WhiteSmoke;
     font-weight: lighter;
     font-family: Courier New, Monospace;
     text-align: top left;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 5%;
-    padding-bottom: 30px;
+    height: 75px;
 }
 #footer a {
     color:WhiteSmoke;
