@@ -1,17 +1,11 @@
 #!/bin/bash
-
 # Customization Script for Pop!_OS, by Krafter, and written in Bash.
+# Version alpha-0.2
 # This, once complete should be able to install all the programs I need, and do a bit of customization too.
 
 echo 'This bash script by Krafter (thekrafter.github.io) will install a few programs for a freshly installed Pop!_OS system.'
 echo 'It will install Pithos, OBS, GIMP, Audacity, Steam, Neofetch, Gnome Tweaks, Discord, VsCodium, NextCloud Sync Client, GitHub Desktop, Tor Browser, Minecraft Java Edition, Wine.'
-# Ask Before Proceeding
-read -p "Continue (y/n)?" CONT
-if [ "$CONT" = "y"]; then
-  echo "yes";
-else
-  echo "no" && exit;
-fi
+# # Commence Install # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # Make sure system is up to date
 echo 'Updating System...'
