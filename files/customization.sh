@@ -10,6 +10,7 @@ echo 'It will install Pithos, OBS, GIMP, Audacity, Steam, Neofetch, Gnome Tweaks
 # Make sure system is up to date
 echo 'Updating System...'
 sudo apt update && sudo apt upgrade
+sudo flatpak update
 
 
 # Install all the programs I need:
@@ -26,8 +27,8 @@ echo 'Installing Snapcraft By Canonical'
 sudo apt install snapd
 
 # snap applications
-echo 'Installing snaps: Tor Browser'
-sudo snap install tor-mkg20001
+echo 'Installing snaps: Tor Browser Launcher' 
+sudo flatpak install com.github.micahflee.torbrowser-launcher
 
 # Install Minecraft
 echo 'Installing Minecraft Java Edition from Minecraft.net'
