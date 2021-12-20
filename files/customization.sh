@@ -4,7 +4,7 @@
 # (c) 2021 'Krafter' [https://www.github.com/TheKrafter]
 # Published Under the MIT License.
 ##################################################
-# Version alpha-1.0
+# Version alpha-1.1
 # This, once complete should be able to install all the programs I need, and do a bit of customization too.
 # The pauses are to allow the user to read the messages, which I find to be helpful. They only pause for a sec.
 
@@ -45,13 +45,20 @@ then
 fi
 
 # Utilities
-read -p "Install Basic Utility applications 'Gnome Tweaks, Htop, Neofetch, CPUfetch'? [y/n]" -n 1 -r
+read -p "Install Basic Utility applications 'Gnome Tweaks, Htop, Neofetch, CPUfetch, Stacer'? [y/n]" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo 'Installing .deb applications: Gnome Tweaks, Htop, Neofetch, CPUfetch.'
     sleep 2s
     sudo apt install gnome-tweaks htop neofetch cpufetch
+    echo 'Adding Repo: ppa:oguzhaninan/stacer'
+    sleep 2s
+    sudo add-apt-repository ppa:oguzhaninan/stacer
+    sudo apt-get update
+    echo 'Installing .deb application: Stacer.'
+    sleep 2s
+    sudo apt-get install stacer
 fi
 
 # Pithos
