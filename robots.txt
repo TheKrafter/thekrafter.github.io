@@ -4,7 +4,7 @@
 # This is a private page not useful for the general public                                #
 # All crawlers are disabled so that it does not show up in search results.                #
 # Please follow robots.txt- so bots don't find useless pages like this that nobody needs. #
-#                                                                                         #
+#                If youre not using robots.txt, then please start.                        #
 ###########################################################################################
 
 User-agent: *
