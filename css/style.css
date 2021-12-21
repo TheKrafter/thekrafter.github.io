@@ -8,6 +8,9 @@ body {
 }
 
             /* Head Styles */
+nav.navbar{
+    background-color: darkred;
+}
 
 #head {
   background-color: DarkRed;
@@ -20,16 +23,6 @@ body {
 }
 #head img {
     width:10%;
-}
-#nav a{
-    text-decoration: none;
-    color: WhiteSmoke;
-    padding: 2px;
-}
-#nav a:hover {
-    text-decoration: none;
-    color: WhiteSmoke;
-    background-color: Maroon;
 }
 
             /* Content Styles */
