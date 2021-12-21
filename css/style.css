@@ -40,7 +40,7 @@ nav.navbar{
 #content h3{
     padding: 10px 15px;
 }
-.jumbotron{
+div.jumbotron a{
     background-color: #555555;
     text-align: center;
     border-radius: 5px;
