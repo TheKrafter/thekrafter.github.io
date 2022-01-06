@@ -83,21 +83,31 @@ then
 fi
 
 # install snapd
-read -p "Install 'snapd' by Canonical (required for TOR)? [y/n]" -n 1 -r
+read -p "Install 'snapd' by Canonical (required for CPUfetch)? [y/n]" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo 'Installing Snapcraft By Canonical'
     sudo apt install snapd
-    # install TOR
-    read -p "Install snap: Tor Browser Launcher? [y/n]" -n 1 -r
+    
+    # install cpufetch
+    read -p "Install snap: cpufetch? [y/n]" -n 1 -r
+    echo    # (optional) move to a new line
+    if [[ $REPLY =~ ^[Yy]$ ]]
+    then
+        echo 'Installing snap cpufetch:'
+        sudo snap install cpufetch
+    fi
+fi
+
+# install TOR
+    read -p "Install flatpak: Tor Browser Launcher? [y/n]" -n 1 -r
     echo    # (optional) move to a new line
     if [[ $REPLY =~ ^[Yy]$ ]]
     then
         echo 'Installing Tor Browser Launcher'
         sudo flatpak install com.github.micahflee.torbrowser-launcher
     fi
-fi
 
 # Minecraft
 read -p "Install Minecraft Java Edition by Mojang? [y/n]" -n 1 -r
