@@ -9,6 +9,7 @@
 # The pauses are to allow the user to read the messages, which I find to be helpful. They only pause for a sec.
 
 echo 'This bash script by Krafter (thekrafter.github.io) will install a few programs for a freshly installed Pop!_OS system.'
+echo 'It Depends on apt, & flatpak. It also can install snapcraft if you choose to do so.'
 echo 'It will install Pithos, OBS, GIMP, Audacity, Steam, Neofetch, Gnome Tweaks, Discord, VsCodium, NextCloud Sync Client, GitHub Desktop, Tor Browser, Minecraft Java Edition, Wine, Pipewire.'
 sleep 2s
 # # Commence Install # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -16,7 +17,7 @@ sleep 2s
 # Make sure system is up to date
 echo 'Updating System...'
 sudo apt update && sudo apt upgrade
-sudo flatpak update && sudo flatpak upgrade
+sudo flatpak update && flatpak update
 
 
 # Install all the programs I need:
