@@ -28,7 +28,7 @@ then
     flatpak install -y flathub com.nextcloud
     echo 'Installed.'
     echo 'Installing io.github.shiftkey.Desktop'
-    flatpak install -y flathub io.shiftkey.Deskop
+    flatpak install -y flathub io.github.shiftkey.Deskop
     echo 'Installed.'
     echo 'Installing com.obsproject.Studio'
     flatpak install -y flathub com.obsproject.Studio
