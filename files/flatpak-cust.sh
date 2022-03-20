@@ -4,7 +4,7 @@
 # (c) 2021 'Krafter' [https://www.github.com/TheKrafter]
 # Published Under the MIT License.
 ##################################################
-# Version alpha-1.2
+# Version beta-1.0
 # This, once complete should be able to install all the flatpak programs I need.
 WILL_INSTALL_FLATPAK='Inkscape, VSCodium, Nextcloud Sync, GitHub Desktop, OBS Studio, Kdenlive, Pithos, Discord, Fractal, Tor Browser, Minecraft.'
 # It will also put the mcpelauncher appimage in ~/Applications/mcpelauncher/ (as the flatpak no longer exists)
@@ -52,7 +52,7 @@ then
     flatpak install -y flathub com.mojang.Minecraft
     echo 'Installed.'
     echo 'Installing MCPE Launcher.'
-    mkdir $HOME/Applications/mcpelauncher/
+    mkdir -p $HOME/Applications/mcpelauncher/
     cd $HOME/Applications/mcpelauncher/
     wget $MCPELAUNCHER_DL
     chmod +x $MCPELAUNCHER
