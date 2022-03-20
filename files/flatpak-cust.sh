@@ -19,37 +19,37 @@ echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo 'Installing org.inkscape.Inkscape'
-    flatpak install flathub org.inkscape.Inkscape
+    flatpak install -y flathub org.inkscape.Inkscape
     echo 'Installed.'
     echo 'Installing com.vscodium.codium'
-    flatpak install flathub com.vscodium.codium
+    flatpak install -y flathub com.vscodium.codium
     echo 'Installed.'
     echo 'Installing com.nextcloud'
-    flatpak install flathub com.nextcloud
+    flatpak install -y flathub com.nextcloud
     echo 'Installed.'
     echo 'Installing io.github.shiftkey.Desktop'
-    flatpak install flathub io.shiftkey.Deskop
+    flatpak install -y flathub io.shiftkey.Deskop
     echo 'Installed.'
     echo 'Installing com.obsproject.Studio'
-    flatpak install flathub com.obsproject.Studio
+    flatpak install -y flathub com.obsproject.Studio
     echo 'Installed.'
     echo 'Installing org.kde.kdenlive'
-    flatpak install flathub org.kde.kdenlive
+    flatpak install -y flathub org.kde.kdenlive
     echo 'Installed.'
     echo 'Installing io.github.Pithos'
-    flatpak install flathub io.github.Pithos
+    flatpak install -y flathub io.github.Pithos
     echo 'Installed.'
     echo 'Installing com.discordapp.Discord'
-    flatpak install flathub com.discordapp.Discord
+    flatpak install -y flathub com.discordapp.Discord
     echo 'Installed.'
     echo 'Installing org.gnome.Fractal'
-    flatpak install flathub org.gnome.Fractal
+    flatpak install -y flathub org.gnome.Fractal
     echo 'Installed.'
     echo 'Installing com.github.micahflee.torbrowser-launcher'
-    flatpak install flathub com.github.micahflee.torbrowser-launcher
+    flatpak install -y flathub com.github.micahflee.torbrowser-launcher
     echo 'Installed.'
     echo 'Installing com.mojang.Minecraft'
-    flatpak install flathub com.mojang.Minecraft
+    flatpak install -y flathub com.mojang.Minecraft
     echo 'Installed.'
     echo 'Installing MCPE Launcher.'
     mkdir $HOME/Applications/mcpelauncher/
