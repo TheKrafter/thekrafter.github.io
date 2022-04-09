@@ -6,7 +6,7 @@
 ##################################################
 # Version beta-1.0
 # This, once complete should be able to install all the flatpak programs I need.
-WILL_INSTALL_FLATPAK='Inkscape, VSCodium, Nextcloud Sync, GitHub Desktop, OBS Studio, Kdenlive, Pithos, Discord, Fractal, Tor Browser, Minecraft.'
+WILL_INSTALL_FLATPAK='Inkscape, VSCodium, Nextcloud Sync, GitHub Desktop, OBS Studio, Kdenlive, Pithos, Discord, Fractal, Tor Browser, Minecraft, Iotas, Desktop Files Creator.'
 # It will also put the mcpelauncher appimage in ~/Applications/mcpelauncher/ (as the flatpak no longer exists)
 MCPELAUNCHER_DL='https://github.com/ChristopherHX/linux-packaging-scripts/releases/download/v0.3.3-683/Minecraft_Bedrock_Launcher-x86_64-v0.3.3.683.AppImage'
 MCPELAUNCHER='Minecraft_Bedrock_Launcher-x86_64-v0.3.3.683.AppImage'
@@ -50,6 +50,12 @@ then
     echo 'Installed.'
     echo 'Installing com.mojang.Minecraft'
     flatpak install -y flathub com.mojang.Minecraft
+    echo 'Installed.'
+    echo 'Installing org.gnome.gitlab.cheywood.Iotas'
+    flatpak install -y flathub org.gnome.gitlab.cheywood.Iotas
+    echo 'Installed.'
+    echo 'Installing com.github.alexkdeveloper.desktop-files-creator'
+    flatpak install -y flathub com.github.alexkdeveloper.desktop-files-creator
     echo 'Installed.'
     echo 'Installing MCPE Launcher.'
     mkdir -p $HOME/Applications/mcpelauncher/
