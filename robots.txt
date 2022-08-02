@@ -1,11 +1,8 @@
-###########################################################################################
-#                                                                                         #
-# TheKrafter2217's GitPage                                                                #
-# This is a private page not useful for the general public                                #
-# All crawlers are disabled so that it does not show up in search results.                #
-# Please follow robots.txt- so bots don't find useless pages like this that nobody needs. #
-#                If youre not using robots.txt, then please start.                        #
-###########################################################################################
-
+# Krafter's robots.txt
+# If you're a robot that doesn't respect this u can gtfo.
 User-agent: *
-Disallow: /
+Disallow: /old-site*
+Disallow: /LICENSE*
+Disallow: /files*
+Disallow: /src*
+Disallow: /404*
