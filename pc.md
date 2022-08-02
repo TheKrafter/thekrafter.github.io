@@ -23,5 +23,7 @@ Type|Item|Price
 #
 ### That's cool Krafter, wish i could do that :(.
 Sorry? What did you say? You wish you could do that? Well hurry up and get your head out of the clouds. __YOU CAN DO THIS__. Save up a bit, and research how to buy and build a PC– its really not that hard if you have the right instruction. I reccommend [this feature-film length yt vid](https://www.youtube.com/watch?v=BL4DCEp7blY) dubbed "How to build a PC, the Last guide you'll ever need" by Linus Tech Tips. It's a bit long at 1hr 42mins, but it should give you all the instruction you need for getting started with a PC.
+
 #
+
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
