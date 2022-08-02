@@ -2,7 +2,9 @@
 permalink: /
 ---
 # Krafter
-## Hey! I'm Krafter. 
+
+## Hey! I'm Krafter.
+ 
 I do a bit of contribution to FOSS projects, ([see my GitHub Stars](https://github.com/TheKrafter?tab=stars))
 
 I am a Linux user, and I use [Fedora](https://getfedora.org) on my desktop and laptop. My phone is a [PinePhonePro](https://www.pine64.org/pinephonepro/) running [Mobian](https://mobian.org) (at time of writing) and has served me quite well so far, tho I don't heavily rely on my phone for anything important besides 2fa. I self-host a few things for myself, but nothing too important. 
@@ -13,6 +15,6 @@ PC enthusiast? I am too! I mostly watch [LTT](https://www.youtube.com/c/LinusTec
 
 #### [Check out my Socials](/socials)
 
-#
+---
 
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
