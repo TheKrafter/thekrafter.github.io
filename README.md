@@ -11,7 +11,7 @@ I am a Linux user, and I use [Fedora](https://getfedora.org) on my desktop and l
 
 I also play games! Well, I really just play minecraft. Sometimes modded, usually vanilla. [This is the pack I use for vanilla servers](/files/mc-client/krafter-mcpack-v0.1.zip), based on [trainb0y's better visuals](https://modrinth.com/modpack/trainb0ys-visual-pack).
 
-PC enthusiast? I am too! I mostly watch [LTT](https://www.youtube.com/c/LinusTechTips). 
+PC enthusiast? [I am too!](/pc) I mostly watch [LTT](https://www.youtube.com/c/LinusTechTips). 
 
 #### [Check out my Socials](/socials)
 
