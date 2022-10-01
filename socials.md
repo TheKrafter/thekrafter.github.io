@@ -18,7 +18,7 @@ And some game usernames:
 * Minecraft Java: __[TheKrafter2217](https://namemc.com/profile/TheKrafter2217.1)__
 * Xbox Live: __TheKrafter2217__
 * Veloren: __Krafter__
-* Steam: __[Krafter](https://steamcommunity.com/profiles/76561199207684878)__
+* Steam: __[Krafter](https://steamcommunity.com/id/krafterdev/)__
 
 Discord is the best way to contact me, but I wont accept random Friend Requests. I'm an admin in RoseSMP at time of writing, so check it out: [.gg/RDzNvSgS4M](https://discord.gg/RDzNvSgS4M) (temporary membership link).
 
