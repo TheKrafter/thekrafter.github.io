@@ -25,6 +25,7 @@ NOTE: I've read A LOT more than this. This is just since 2023.
     - [ ] *The Fellowship of the Ring*  by J. R. R. Tolkein
     - [ ] *The Two Towers*  by J. R. R. Tolkein
     - [ ] *The Return of the King*  by J. R. R. Tolkein
+- [ ] *The Rust Programming Language* by Steve Klabnik, Carol Nichols, et al. **[side]**
 
 ### To Read
 - [ ] *The Man Who was Thursday* by G. K. Chesterton
