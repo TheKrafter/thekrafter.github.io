@@ -23,6 +23,9 @@ And some game usernames:
 
 Discord is the best way to contact me, but I wont accept random Friend Requests. I'm an admin in RoseSMP at time of writing, so check it out: [.gg/RDzNvSgS4M](https://discord.gg/RDzNvSgS4M) (temporary membership link).
 
+## See Also
+If u wanna know what I'm reading, check out [my reading list](/reading-list)
+
 ---
 
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
