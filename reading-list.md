@@ -6,12 +6,11 @@ permalink: /reading-list
 
 ## My Reading List
 Contents:
-- [Read](#read)
+- [Recent and Interesting](#recent-interesting-reads)
 - [In Progress](#in-progress)
 - [To Read](#to-read)
 
-### Read
-NOTE: I've read A LOT more than this. This is just since 2023.
+### Recent Interesting Reads
 
 - [x] The Space Trilogy (by C. S. Lewis)
     - [x] *Out of the Silent Planet* by C. S. Lewis
