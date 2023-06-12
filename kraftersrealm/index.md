@@ -1,3 +1,7 @@
+---
+permalink: /kraftersrealm/
+permalink: /kraftersrealm
+---
 # Krafter's Realm
 A minecraft server for me and my friends to have fun in!
 This server is inv
