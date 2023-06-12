@@ -10,3 +10,4 @@ This server is inv
 
 * [Map](http://kraftersmap.ddns.net/)
 * [ArtMap How-To](artmap)
+* [Claiming Guide](claims)
