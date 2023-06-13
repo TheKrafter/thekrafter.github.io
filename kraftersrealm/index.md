@@ -1,5 +1,4 @@
 ---
-permalink: /kraftersrealm/
 permalink: /kraftersrealm
 ---
 # Krafter's Realm
