@@ -12,3 +12,4 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 * [ArtMap How-To](artmap)
 * [Claiming Guide](claims)
 * [Joining on Console](consoles)
+* [Server Wishlist](wishlist)
