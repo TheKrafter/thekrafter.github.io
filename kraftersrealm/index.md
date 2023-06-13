@@ -9,7 +9,7 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 ## Resources:
 
 * [Map](http://kraftersmap.ddns.net/)
-* [ArtMap How-To](artmap)
-* [Claiming Guide](claims)
-* [Joining on Console](consoles)
-* [Server Wishlist](wishlist)
+* [ArtMap How-To](/kraftersrealm/artmap)
+* [Claiming Guide](/kraftersrealm/claims)
+* [Joining on Console](/kraftersrealm/consoles)
+* [Server Wishlist](/kraftersrealm/wishlist)
