@@ -1,4 +1,6 @@
 # Server Wishlist
+- [Back](/kraftersrealm)
+
 This page lists possible upgrades for server hardware. If you want to support the server financially, this is what we need:
 
 Currently, **the most useful upgrade would be to [Memory](#memory)**
