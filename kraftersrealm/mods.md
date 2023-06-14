@@ -1,4 +1,6 @@
 # Rules for Minecraft Mods
+- [Back](/kraftersrealm)
+
 While it is fun to make your minecraft client work better for you, we try to keep things fair and not let people have an advantage over other players. Here, we have two lists of rules. If a mod you use is described by something under the "Not Allowed" category, you must remove it. If it is described by something under the "Allowed" category, you should use it! If it is not under either category, **use it with caution**. 
 
 ## Not Allowed
