@@ -35,7 +35,7 @@ For finer control over what people can do in your claim, use any one of the foll
 
 | Command        | Permissions |
 | -------------- | ----------|
-| `/accesstrust` | Only use buttons, levers, and beds |
+| `/accesstrust` | Only use buttons, levers, trapdoors, and beds |
 | `/containertrust` | The above, plus utility blocks, containers, and animals |
 | `/trust` | Ability to interact with all blocks without restrictions |
 
