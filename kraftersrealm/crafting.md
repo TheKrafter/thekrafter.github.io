@@ -1,4 +1,6 @@
 # Extra Crafting
+- [Back](/kraftersrealm)
+
 Krafter's Realm uses a modified version of Mysticat's Extra crafting datapack. It's been modified to remove overpowered items and make it more fair. Below is a list of all the recipies available on the server:
 
 - Bell
