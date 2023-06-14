@@ -26,6 +26,7 @@ To remove permission from a player, use the same steps except with the `/untrust
 - Use `/trustlist` while in your claim to see who you've trusted
 - Use `/claimexplosions` while in your claim to allow TNT and other explosions to break blocks
 - Use `/trapped` to get out of a claim you are stuck in
+- Use `/permissiontrust` to let a player trust others with the same kind of trust they have
 
 ### Advanced Permissions
 For finer control over what people can do in your claim, use any one of the following commands instead of `/trust`:
@@ -36,3 +37,8 @@ For finer control over what people can do in your claim, use any one of the foll
 | `/containertrust` | The above, plus utility blocks, containers, and animals |
 | `/trust` | Ability to interact with all blocks without restrictions |
 
+## Additional Info
+
+- You start with 200 claim blocks
+- Claims must be at least 5 blocks by 4 blocks wide
+- Claims are automatically removed and nature is restored after 30 days
