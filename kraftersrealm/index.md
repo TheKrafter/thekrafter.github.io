@@ -11,6 +11,7 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 ## Resources:
 
 * [Rules](/kraftersrealm/rules)
+* [Rules for Minecraft Mods](/kraftersrealm/mods)
 * [ArtMap How-To](/kraftersrealm/artmap)
 * [Claiming Guide](/kraftersrealm/claims)
 * [Extra Crafting Recipies](/kraftersrealm/crafting)
