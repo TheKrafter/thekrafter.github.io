@@ -1,4 +1,6 @@
 # Krafter's Realm Rules
+- [Back](/kraftersrealm)
+
 These are rules for the Krafter's Realm minecraft server and accompanying discord server.
 
 
