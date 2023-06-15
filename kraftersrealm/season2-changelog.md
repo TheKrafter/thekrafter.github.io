@@ -30,3 +30,4 @@ All of the things we've changed in Season 2 of the SMP:
 - We now have a secret panel (just for me) to see general server statistics (like performance and player count over time)
 - All mobs have a 10% chance of dropping their head when killed by a player
 - All players have a 75% chance of dropping their head when killed by another player
+- You are now nicknamed "Your_Minecraft_Username" instead of "Your Discord Name (Your_Minecraft_Username)"
