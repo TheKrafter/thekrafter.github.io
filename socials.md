@@ -5,7 +5,7 @@ permalink: /socials
 ## Wanna hang? 
 Here are most of my socials:
 
-* Discord: __Krafter#9211__
+* Discord: __krafter2217__ _(formerly __Krafter#9211__)_
 * Reddit: __[u/TheKrafter2217](https://reddit.com/user/TheKrafter2217)__
 * Mastodon: __<a href="https://fosstodon.org/@krafter" rel="me">`@krafter@fosstodon.org`</a>__
 * Matrix: __@krafter:matrix.org__
