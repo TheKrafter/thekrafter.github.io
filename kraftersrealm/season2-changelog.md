@@ -28,3 +28,5 @@ All of the things we've changed in Season 2 of the SMP:
 - Minecraft users chatting in `#ingame-chat` no longer have `[MC]` after their username
 - The autocomplete for commands now only shows commands you can use
 - We now have a secret panel (just for me) to see general server statistics (like performance and player count over time)
+- All mobs have a 10% chance of dropping their head when killed by a player
+- All players have a 75% chance of dropping their head when killed by another player
