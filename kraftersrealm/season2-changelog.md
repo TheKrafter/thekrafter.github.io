@@ -3,7 +3,7 @@ All of the things we've changed in Season 2 of the SMP:
 
 - Minecraft 1.20!
 - No longer hosted in a Docker Container
-- Connections go through the Velocity proxy before connecting to the internal minecraft server
+- Connections go through the Velocity proxy before connecting to the internal minecraft server (this will help ease these kinds of transitions)
 - No more teleportation! (Including `/back`, `/home`, `/warp`, and `/tpa`)
 - Death chests last 24 hours
 - The map has moved to [https://thekrafter.github.io/kraftersrealm/map](/kraftersrealm/map)
