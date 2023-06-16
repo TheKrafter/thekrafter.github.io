@@ -9,7 +9,7 @@ All of the things we've changed in Season 2 of the SMP:
 - The map has moved to [https://thekrafter.github.io/kraftersrealm/map](/kraftersrealm/map)
 - You only get +60 claim blocks per hour (previously it was +100)
 - Map art is no longer allowed and will be removed (Rule 9)
-- Several of overpowered extra crafting recipies have been removed (and there's a new list of recipies [here](/kraftersrealm/crafting))
+- Several overpowered extra crafting recipies have been removed (and there's a new list of recipies [here](/kraftersrealm/crafting))
 - After 30 days (previously 21) when your claim gets automatically removed, nature is restored
 - You can't open trapdoors in claims you're not trusted in
 - You *can* read lecterns in claims you're not trusted in
