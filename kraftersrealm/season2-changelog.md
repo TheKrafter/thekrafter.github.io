@@ -33,3 +33,4 @@ All of the things we've changed in Season 2 of the SMP:
 - You are now nicknamed "Your_Minecraft_Username" instead of "Your Discord Name (Your_Minecraft_Username)"
 - Mob spawners drop if broken with silk touch
 - There's a mob arena! Practice your fighting skills by doing `/server arena` ingame!
+- You can now craft invisible item frames! See [the crafting page](/kraftersrealm/crafting)
