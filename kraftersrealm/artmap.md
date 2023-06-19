@@ -3,7 +3,7 @@
 
 This is a guide on how to use ArtMap! Our thing for drawing art. You can view their full wiki [here](https://gitlab.com/BlockStack/ArtMap/-/wikis/).
 
-*If you are on Bedrock Edition, you will need to enable split controls by going to Settings → Controls: Touch → Split Controls*
+*If you are on Bedrock Edition and using a Touch Screen, you will need to enable split controls by going to Settings → Controls: Touch → Split Controls*
 
 ## Setup
 * Create an Easel to hold your canvas out of leather, string, an item frame, an armor stand, and a stick:
