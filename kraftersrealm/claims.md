@@ -43,4 +43,4 @@ For finer control over what people can do in your claim, use any one of the foll
 
 - You start with 200 claim blocks
 - Claims must be at least 5 blocks by 4 blocks wide
-- Claims are automatically removed and nature is restored after 30 days
+- Claims are automatically removed and nature is restored after 60 days
