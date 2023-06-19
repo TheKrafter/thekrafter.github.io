@@ -20,7 +20,6 @@ All of the things we've changed in Season 2 of the SMP:
 - All of these guides I've linked to are listed on [this new page](/kraftersrealm)
 - We have a fancy new tab menu on java edition
 - Messages from discord look prettier ingame
-- Our anticheat plugin was removed, as it does not support 1.20 and we haven't had a real need for it (it was just uselessly wasting server resources)
 - The map no longer has to be manually updated every week
 - Claims now only have to be a minimum 5 by 4 blocks large
 - The server has updated from Fedora Server 36 to Fedora Server 37
