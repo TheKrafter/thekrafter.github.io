@@ -1,5 +1,14 @@
-# Extra Crafting
+# Crafting Recipies
+There are a few recipies not in vanilla minecraft that are introduced on our server.
+
+## Invisible Item frames
+You can now craft invisible item frames:
+
+- ![Lingering potion of invisibility surrounded by item frames](/kraftersrealm/src/invis_itemframe.png)
+
+## Extra Crafting
 Krafter's Realm uses a modified version of Mysticat's Extra crafting datapack. It's been modified to remove overpowered items and make it more fair. Below is a list of all the recipies available on the server:
+
 
 - Bell
 
