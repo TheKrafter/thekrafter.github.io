@@ -1,4 +1,6 @@
 # Joining on Consoles
+- [Back](/kraftersrealm)
+
 Minecraft Bedrock edition for consoles does not officially support third-party servers. Because of this, **I cannot guarantee that you will be able to join Krafter's Realm from a console**. 
 
 However, here is the reccommended way to join if you *must* use a console:

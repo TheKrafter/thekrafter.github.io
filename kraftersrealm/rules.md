@@ -1,4 +1,6 @@
 # Krafter's Realm Rules
+- [Back](/kraftersrealm)
+
 These are rules for the Krafter's Realm minecraft server and accompanying discord server.
 
 
@@ -10,3 +12,4 @@ These are rules for the Krafter's Realm minecraft server and accompanying discor
 6. Staff have the final word - I or any other staff members have the final say on what is or is not inkeeping with these rules
 7. Have fun! - ultimately, we want everyone to enjoy their time on the server
 8. Follow Discord's ToS and Community Guidelines, along with Mojang's EULA.
+9. No Map art - use [ArtMap](/kraftersrealm/artmap) if you want to do art (`/art`)

@@ -1,4 +1,6 @@
 # Crafting Recipies
+- [Back](/kraftersrealm)
+
 There are a few recipies not in vanilla minecraft that are introduced on our server.
 
 ## Invisible Item frames
