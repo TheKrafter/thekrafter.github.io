@@ -14,7 +14,7 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 
 ### Guides
 
-* [ArtMap How-To](/kraftersrealm/artmap)
+* [ArtMap (Painting) How-To](/kraftersrealm/artmap)
 * [Claiming Guide](/kraftersrealm/claims)
 * [Shopkeepers](/kraftersrealm/shopkeepers)
 
