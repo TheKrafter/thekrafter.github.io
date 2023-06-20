@@ -33,3 +33,5 @@ All of the things we've changed in Season 2 of the SMP:
 - Mob spawners drop if broken with silk touch
 - There's a mob arena! Practice your fighting skills by doing `/server arena` ingame!
 - You can now craft invisible item frames! See [the crafting page](/kraftersrealm/crafting)
+- You can view your playtime with `/playtime`
+- There are cool-looking holograms at spawn with info, a leaderboard, and your playtime stats
