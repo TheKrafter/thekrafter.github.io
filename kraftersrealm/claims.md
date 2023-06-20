@@ -25,6 +25,7 @@ To remove permission from a player, use the same steps except with the `/untrust
 ### Tips
 - Use `public` as the username to change perissions for everyone
 - Tap the ground with a stick to see if that block is claimed
+- Shift while tapping the ground with a stick to visualize nearby claims
 - Use `/trustlist` while in your claim to see who you've trusted
 - Use `/claimexplosions` while in your claim to allow TNT and other explosions to break blocks
 - Use `/trapped` to get out of a claim you are stuck in
