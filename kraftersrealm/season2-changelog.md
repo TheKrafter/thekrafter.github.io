@@ -35,3 +35,6 @@ All of the things we've changed in Season 2 of the SMP:
 - You can now craft invisible item frames! See [the crafting page](/kraftersrealm/crafting)
 - You can view your playtime with `/playtime`
 - There are cool-looking holograms at spawn with info, a leaderboard, and your playtime stats
+- Phantoms ignore players who have used a bed in the past 3 minecraft days
+- Phantoms spawned in for you will despawn when you sleep or die
+
