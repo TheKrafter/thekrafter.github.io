@@ -11,6 +11,7 @@ All of the things we've changed in Season 2 of the SMP:
 - Mob spawners drop if broken with silk touch
 - Phantoms ignore players who have used a bed in the past 3 minecraft days
 - Phantoms spawned in for you will despawn when you sleep or die
+- When a bedrock player performs an emote, it switches the item in their main and offhand
 
 ## Balancing
 - No more teleportation! (Including `/back`, `/home`, `/warp`, and `/tpa`)
@@ -26,11 +27,10 @@ All of the things we've changed in Season 2 of the SMP:
 
 ## Rules
 - Map art is no longer allowed and will be removed (Rule 9)
-
+- There are new rules for using minecraft mods [here](/kraftersrealm/mods)
 
 ## Guides
 - There is a new page on our claiming system [here](/kraftersrealm/claims)
-- There are new rules for using minecraft mods [here](/kraftersrealm/mods)
 - There's a link to documentation for Shopkeepers [here](/kraftersrealm/shopkeepers)
 - We have a wishlist on potential upgrades for the server [here](/kraftersrealm/wishlist)
 - All of these guides I've linked to are listed on [this new page](/kraftersrealm)
