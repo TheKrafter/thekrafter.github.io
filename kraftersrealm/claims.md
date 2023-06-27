@@ -30,6 +30,7 @@ To remove permission from a player, use the same steps except with the `/untrust
 - Use `/claimexplosions` while in your claim to allow TNT and other explosions to break blocks
 - Use `/trapped` to get out of a claim you are stuck in
 - Use `/permissiontrust` to let a player trust others with the same kind of trust they have
+- Use `/givepet` and click a pet to gift it to another player
 
 ### Advanced Permissions
 For finer control over what people can do in your claim, use any one of the following commands instead of `/trust`:
