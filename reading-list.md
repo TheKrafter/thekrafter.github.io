@@ -19,16 +19,18 @@ Contents:
 - [x] *Till We Have Faces* by C. S. Lewis
 
 ### In Progress
-- [ ] Tolkien's LotR & The Hobbit
-    - [ ] *The Hobbit (or There and Back Again)* by J. R. R. Tolkien **[current]**
-    - [ ] *The Fellowship of the Ring*  by J. R. R. Tolkien
-    - [ ] *The Two Towers*  by J. R. R. Tolkien
-    - [ ] *The Return of the King*  by J. R. R. Tolkien
-- [ ] *The Rust Programming Language* by Steve Klabnik, Carol Nichols, et al. **[side]**
+- [ ] *The Hobbit (or There and Back Again)* by J. R. R. Tolkien
+- [ ] *The Grapes of Wrath* by John Steinbeck **(current focus)**
+
 
 ### To Read
+
+- [ ] *The Fellowship of the Ring*  by J. R. R. Tolkien
+- [ ] *The Two Towers*  by J. R. R. Tolkien
+- [ ] *The Return of the King*  by J. R. R. Tolkien
 - [ ] *The Man Who was Thursday* by G. K. Chesterton
-- [ ] *The Abolition of Man* by C. S. Lewis 
+- [ ] *The Abolition of Man* by C. S. Lewis
+- [ ] *The Rust Programming Language* by Steve Klabnik, Carol Nichols, et al.
 
 ---
 
