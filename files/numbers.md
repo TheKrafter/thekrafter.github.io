@@ -5,7 +5,7 @@ but IMPROVED!!
 Made by u/German-Spy
 
 
-Transcripted to text by Krafter
+Transcripted to text by Krafter [(original)](https://cdn.discordapp.com/attachments/949981418157641731/1143698045914063038/v07ovq2lq3r31.png)
 
 ### The Basics
 
