@@ -33,102 +33,101 @@ Transcripted to text by Krafter
 
 ### Hobbies / Favorite Things
 
-12\. 
+12\. Favorite Color
 
-13\. 
+13\. Favorite Food
 
-14\. 
+14\. Favorite Activity
 
-15\. 
+15\. Favorite Music genre
 
-16\. 
+16\. Favorite Artist
 
-17\. 
+17\. Favorite Song
 
-18\. 
+18\. Favorite Movie
 
-19\. 
+19\. Favorite Video Game (if any)
 
-20\. 
+20\. Favorite TV show
 
-21\. 
+21\. Do you play any sports
 
-22\. 
+22\. Last thing you did
 
 ### Life / Experience
 
-23\. 
+23\. Do you currently have a job
 
-24\. 
+24\. Future Job / Career / Ambitions
 
-25\. 
+25\. Have you drank / smoked anything
 
-26\. 
+26\. Have you done drugs
 
-27\. 
+27\. Do you have any pets
 
-28\. 
+28\. Most Favorable Memory
 
-29\. 
+29\. Most embarrasing moment
 
-30\. 
+30\. Dream Vacation
 
-31\. 
+31\. How many family members
 
-32\. 
+32\. How many friends
 
-33\. 
+33\. Do you plan on going to college / university
 
 ### Social Media
 
-34\. 
+34\. Do you use any other social media than Reddit
 
-35\. 
+35\. Who do you follow
 
-36\. 
+36\. Have you ever had an internet argument
 
-37\. 
+37\. Most used Social Media app
 
-38\. 
+38\. What's your username on each app
 
-39\. 
+39\. Have you met any friends online
 
-40\. 
+40\. Do you follow any NSFW accounts / pages
 
-41\. 
+41\. Last Person you DM'd / Followed
 
-42\. 
+42\. What was the last message you sent
 
-43\. 
+43\. How many followers / friends on social media
 
-44\. 
+44\. Amount of time you use social media
 
 ### Personal Belongings
 
-45\. 
+45\. Most expensive thing you own
 
-46\. 
+46\. Do you own anything above $1,000
 
-47\. 
+47\. Most prized posession
 
-48\. 
+48\. Do you own anything embarrassing
 
-49\. 
+49\. Weirdest thing you own
 
-50\. 
+50\. Do you own anything popular
 
-51\. 
+51\. Do you own anything considered "rich"
 
-52\. 
+52\. Do you own anything futuristic
 
-53\. 
+53\. Coolest thing you own
 
-54\. 
+54\. Oldest thing you own
 
-55\. 
+55\. What did you buy / get recently
 
-### Appearance / Looks
-
+<!-- Apparently these numbers aren't used in the original image. weird.
 56\. 
 
 57\. 
@@ -147,147 +146,149 @@ Transcripted to text by Krafter
 
 64\. 
 
-65\. 
+65\. -->
 
-66\. 
+### Appearance / Looks
 
-67\. 
+66\. Hair Style
 
-68\. 
+67\. Hair Length
 
-69\. 
+68\. Hair Color
 
-70\. 
+69\. Nice
 
-71\. 
+70\. Body Style
 
-72\. 
+71\. Ethnicity
 
-73\. 
+72\. What are you wearing
 
-74\. 
+73\. Eye color
 
-75\. 
+74\. Are you wearing makeup
 
-76\. 
+75\. Type of Underwear you wear
 
-77\. 
+76\. Favorite Outfit
+
+77\. Facial / Body Hair
 
 ### Relationships
 
-78\. 
+78\. Sexuality
 
-79\. 
+79\. Relationship Status
 
-80\. 
+80\. Who is your crush
 
-81\. 
+81\. Celebrity Crush
 
-82\. 
+82\. Have you ever cheated on someone
 
-83\. 
+83\. Ideal Girlfriend / Boyfriend
 
-84\. 
+84\. Idea of a Perfect Date
 
-85\. 
+85\. Have you asked someone out
 
-86\. 
+86\. What do you hope for in a relationship
 
-87\. 
+87\. Are you interested in anyone
 
-88\. 
+88\. Do you real life / online date
 
 ### Sex & Sexuality
 
-89\. 
+89\. Are you a virgin
 
-90\. 
+90\. Have you ever seen anyone naked
 
-91\. 
+91\. Do you have piercing / tattoos
 
-92\. 
+92\. Have you ever had a same-sex experience
 
-93\. 
+93\. Have you ever sent a nude
 
-94\. 
+94\. Have you ever sexted
 
-95\. 
+95\. Have you ever kissed anyone
 
-96\. 
+96\. Am I attractive
 
-97\. 
+97\. Have you ever slept together
 
-98\. 
+98\. Do you want to have sex
 
-99\. 
+99\. Are you straight, bi, gay / lesbian, pan, etc.
 
 ### Sexual *(Welcome to Spicy Town)*
 
-100\. 
+100\. Bra / Dick size
 
-101\. 
+101\. Pubic Hair: Natural, Trimmed, Shaved, None
 
-102\. 
+102\. Do you have any body hair
 
-103\. 
+103\. (Guys Only) Are you Circumcised
 
-104\. 
+104\. How often you Masturbate
 
-105\. 
+105\. Have you ever watched porn
 
-106\. 
+106\. Ideal Sexual / Physical attributes
 
-107\. 
+107\. Favorite Sexual Fantasy
 
-108\. 
+108\. Turn Ons / Turn Offs
 
-109\. 
+109\. Any Kinks
 
-110\. 
+110\. Ideal Sexual Position
 
-111\. 
+111\. How do you masturbate
 
-112\. 
+112\. Do you own a toy
 
-113\. 
+113\. Have you ever been caught Masturbating
 
-114\. 
+114\. Have you ever walked in when someone was having sex
 
-115\. 
+115\. Biggest fears of Sex
 
-116\. 
+116\. Do you have any STDs
 
-117\. 
+117\. How often are you horny
 
-118\. 
+118\. Most embarrasing sexual story
 
-119\. 
+119\. Are you currently horny
 
-120\. 
+120\. What do you expect in a sexual relationship
 
 ### Academics / School
 
-121\. 
+121\. Where do you go to school
 
-122\. 
+122\. What classes do you take
 
-123\. 
+123\. What grade are you in
 
-124\. 
+124\. Most favorite teacher
 
-125\. 
+125\. Least favorite teachers
 
-126\. 
+126\. Highest Grade / Lowest Grade in classes
 
-127\. 
+127\. How long is your school day
 
-128\. 
+128\. Did you do your homework
 
-129\. 
+129\. Do you have any test, quizzes, or exams coming up
 
-130\. 
+130\. Last bad grade
 
-131\. 
+131\. Last good grade
 
 ### Economic Status / Wealth
 
