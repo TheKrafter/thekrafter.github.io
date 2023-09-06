@@ -7,6 +7,21 @@ Made by u/German-Spy
 
 Transcripted to text by Krafter [(original)](https://cdn.discordapp.com/attachments/949981418157641731/1143698045914063038/v07ovq2lq3r31.png)
 
+## Contents
+- [The Basics (1-11)](#the-basics)
+- [Hobbies / Favorite Things (12-22)](#hobbies--favorite-things)
+- [Life / Experience (23-33)](#life--experience)
+- [Social Media (34-44)](#social-media)
+- [Personal Belongings (45-55)](#personal-belongings)
+- [Appearance / Looks (66-77)](#appearance--looks)
+- [Relationships (76-88)](#relationships)
+- [Sex & Sexuality (89-99)](#sex-amp-sexuality)
+- [Sexual *(Welcome to Spicy Town)* (100-120)](#sexual-emwelcome-to-spicy-townem)
+- [Academics / School (121-131)](#academics--school)
+- [Economic Status / Wealth (132-142)](#economic-status--wealth)
+- [Miscellaneous (143-146)](#miscellaneous)
+
+
 ### The Basics
 
 1\. Age
@@ -128,6 +143,7 @@ Transcripted to text by Krafter [(original)](https://cdn.discordapp.com/attachme
 55\. What did you buy / get recently
 
 <!-- Apparently these numbers aren't used in the original image. weird.
+open a PR if u wanna add some questions here
 56\. 
 
 57\. 
@@ -292,35 +308,37 @@ Transcripted to text by Krafter [(original)](https://cdn.discordapp.com/attachme
 
 ### Economic Status / Wealth
 
-132\. 
+132\. Are you rich / poor
 
-133\. 
+133\. Where do you stand in the wealth class (lower class, middle class, upper class)
 
-134\. 
+134\. How big is your house
 
-135\. 
+135\. Take a picture of your house
 
-136\. 
+136\. How much do your parents make
 
-137\. 
+137\. Do your parents struggle with debt
 
-138\. 
+138\. Do you own a pool (above-ground, below-ground)
 
-139\. 
+139\. Do you live in a gated neighborhood
 
-140\. 
+140\. Do you have expensive stuff
 
-141\. 
+141\. How big is your room
 
-142\. 
+142\. What kind of school do you go to
 
 ### Miscellaneous
 
-143\. 
+143\. Send a selfie
 
-144\. 
+144\. Do whatever I say (no saying no)
 
-145\. 
+145\. DM me
 
-146\. 
+146\. Whatever question you want (they can't say no)
+
+
 
