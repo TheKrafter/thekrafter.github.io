@@ -1,14 +1,8 @@
----
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Tulip SMP
-description: Information and Documentation about the server and community
-show_downloads: false
----
 # Tulip SMP
 
 A tight-knit community of passionate players trying to find solace in this perilous, thorny flowerbed of a world.
+
+## Resources
 
 
 ## Invite Only
