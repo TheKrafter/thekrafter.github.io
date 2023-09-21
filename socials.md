@@ -28,6 +28,12 @@ Discord is the best way to contact me, but I wont accept random Friend Requests.
 ## See Also
 If u wanna know what I'm reading, check out [my reading list](/reading-list)
 
+## Donate
+
+Like what I do? I'd love your support on ko-fi!
+
+### [ko-fi.com/krafter](https://ko-fi.com/krafter)
+
 ---
 
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
