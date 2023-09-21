@@ -13,7 +13,7 @@ I also play games! Well, I really just play minecraft. Sometimes modded, usually
 
 PC enthusiast? [I am too!](/pc) I mostly watch [LTT](https://www.youtube.com/c/LinusTechTips). 
 
-#### [Check out my Socials](/socials)
+### [Check out my Socials](/socials)
 
 ---
 
