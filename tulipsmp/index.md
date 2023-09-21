@@ -13,12 +13,8 @@ Tulip SMP is strictly invite-only. All invitation proposals must be approved by 
 
 If you wish to join Tulip SMP, please reach out to a current member.
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('krafter', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#f45d22',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+## Donate
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DO1DO)
+
+*Disclaimer: by donating you recognize that you will receive nothing in return for your donation except for a cosmetic discord and ingame role valued at $0.00, and accept responsibility for any applicable taxes. Donations are qualified as a "Gift" in the United States, where the gift-giver is responsible for paying a Gift Tax if the total amount given meets or exceeds $14,000/year (as of 2014).*
