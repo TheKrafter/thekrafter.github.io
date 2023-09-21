@@ -142,7 +142,7 @@ Send a message in chat starting with "* YourUserName".
 
 - `/payconfirmtoggle`
 
-Toggle whether you need to confirm before making payments with [/pay](#pay).
+Toggle whether you need to confirm before making payments with <a href="#pay">/pay</a>.
 
 #### /list
 
