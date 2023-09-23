@@ -1,7 +1,3 @@
----
-title: Tulip SMP
-description: An SMP by Krafter
----
 # Tulip SMP
 
 A tight-knit community of passionate players trying to find solace in this perilous, thorny flowerbed of a world.
