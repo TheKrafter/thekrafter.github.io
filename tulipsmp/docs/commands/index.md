@@ -412,12 +412,460 @@ View how to craft an item.
 
 Commands Jr. Moderators and above can use
 
+#### /mute
 
+- `/mute [player]`
+- `/mute [player] <duration> <reason>`
+
+Permanately mute a player, unmute a player, or temporarily mute a player for the specified `<duration>` with an optional `<reason>`.
+
+#### /kickall
+
+- `/kickall`
+
+Kicks all players from the server.
+
+#### /kick
+
+- `/kick [player] <reason>`
+
+Kick `[player]` with optional `<reason>`.
+
+#### /togglejail
+
+- `/togglejail [player] [jailname] <duration>`
+
+Jail/Unjail a player from jail `[jailname]` indefinitely, or for optional `<duration>`.
+
+#### /jail
+
+*Alias for [/togglejail](#togglejail).*
+
+#### /vanish
+
+- `/vanish`
+
+Toggle being invisible.
+
+#### /tempban
+
+- `/tempban [player] [duration] <reason>`
+
+Temporarily ban `[player]` for `[duration]` with optional `<reason>`.
+
+#### /socialspy
+
+- `/socialspy`
+
+Toggles social spy, which shows you all direct messages and other correspondence between players in the server.
+ 
 ## For Moderators
 
 Commands Moderators and above can use
 
+#### /whois
+
+- `/whois [player]`
+
+Gives basic information about a player.
+
+#### /gamemode
+
+- `/gamemode [survival|spectator]`
+
+Change your gamemode.
+
+#### /tp
+
+- `/tp [player]`
+- `/tp [player] [destination player]`
+
+Teleport yourself to `[player]`, or teleport `[player]` to `[destination player]` .
+
+#### /tpoffline
+
+- `/tpoffline [player]`
+
+Teleports you to where `[player]` logged out.
+
+#### /book
+
+- `/book`
+
+Locks/Unlocks the book you are holding.
+
+#### /tpaall
+
+- `/tpaall`
+
+Sends a teleport request to all players to teleport to you.
+
+#### /setwarp
+
+- `/setwarp [name]`
+
+Set a warp called `[name]` at your current location.
+
+> Players can teleport to these locations with [/warp](#warp).
+
+#### /delwarpto
+
+- `/delwarp [name]`
+
+Delete the warp called `[name]`.
+
+#### /world
+
+- `/world`
+- `/world [name]`
+
+Teleports you between the overworld and nether, or into specified world `[name]`.
+
+#### /ext
+
+- `/ext`
+- `/ext [player]`
+
+Extinguish yourself, or the specified `[player]` if they are on fire.
+
+#### /invsee
+
+- `/invsee [player]`
+
+View `[player]`'s inventory.
+
+#### /banip
+
+- `/banip [address] <reason>`
+
+Ban the specified IP `[address]` with optional `<reason>`.
+
+#### /jump
+
+- `/jump`
+
+Teleport yourself to the block you're looking at.
+
+#### /broadcast
+
+- `/broadcast [message]`
+
+Sends a server-wide message.
+
+#### /clearinventory
+
+- `/clearinventory <player>`
+
+Clears your inventory or that of the specified `<player>`.
+
+#### /heal
+
+- `/heal <player>`
+
+Heals yourself or the specified `<player>`
+
+#### /tempbanip
+
+- `/tempbanip [player|address] [duration] <reason>`
+
+Temporarily bans all connections from IP `[address]` or the IP of `[player]` for specified `[duration]`, with optional `<reason>`.
+
+#### /tphere
+
+- `/tphere [plaeyr]`
+
+Teleports a player to yourself.
+
+#### /tppos
+
+- `/tppos [x] [y] [z] <yaw> <pitch> <world>`
+
+Teleport to coordinates `[x] [y] [z]`, with optional `<yaw>` and `<pitch>`, into optional `<world>`.
+
+#### /unban
+
+- `/unban [player]`
+
+Unbans the specified player.
+
+#### /unbanip
+
+- `/unbanip [address]`
+
+Unbans the specified IP `[address]`.
+
 
 ## For Administrators
 
-Command only Administrators can use
+Commands only Administrators can use
+
+*Specifics for commands here are not listed,*
+
+#### /spawnmob
+
+Spawns a mob.
+
+#### /lp
+
+Manage permissions with LuckPerms.
+
+#### /ess
+
+Manage EssentialsX.
+
+#### /delkit
+
+Remove a kit.
+
+#### /eco
+
+Manage the Economy.
+
+#### /lag
+
+Check server performance.
+
+#### /loom
+
+Open a loom/
+
+#### /weather
+
+Change the weather.
+
+#### /essentials
+
+*Alias for [/ess](#ess).*
+
+#### /discordsrv
+
+Manage DiscordSRV.
+
+#### /exp
+
+Manage Player Experience Points.
+
+#### /sky
+
+*Alias for [/weather](#weather).*
+
+#### /rain
+
+Change the weather to rain.
+
+#### /give
+
+Give items to yourself or others.
+
+#### /item
+
+*Alias for [/give](#give).*
+
+#### /setjail
+
+Create a jail.
+
+#### /suicide
+
+Kills yourself ingame.
+
+#### /playerweather
+
+Manage a player's percieved weather seperately from the server.
+
+#### /tree
+
+Creates a tree.
+
+#### /setspawn
+
+Sets the world spawn point
+
+#### /grindstone
+
+Opens a grindstone.
+
+
+#### /bigtree
+
+Creates a big tree.
+
+#### /feed
+
+Refills your or another player's hunger.
+
+#### /tpall
+
+Teleports everyone to you.
+
+#### /discord
+
+*Alias for [/discordsrv](#discordsrv).*
+
+#### /stop
+
+Stops the server.
+
+#### /minecraft:gamemode
+
+Use builtin gamemode command.
+
+#### /repair
+
+Restore an item's durability.
+
+#### /anvil
+
+Opens an anvil.
+
+#### /ping
+
+Pong!
+
+#### /squaremap
+
+Manage the [map](https://tulip.krafterdev.xyz).
+
+#### /deljail
+
+Remove a jail.
+
+#### /sun
+
+Set the weather to clear.
+
+#### /kitreset
+
+Resets the cooldown on a kit for you or another player.
+
+#### /remove
+
+Remove mobs by type, radius, and world.
+
+#### /smithingtable
+
+Opens a Smithing Table.
+
+#### /mem
+
+*Alias for [/lag](#lag).*
+
+#### /top
+
+Teleports you atop the highest block above you.
+
+#### /playertime
+
+Manages a player's time separate from the server's.
+
+#### /settpr
+
+Manage [/tpr](#tpr) settings.
+
+#### /sudo
+
+Execute a command as another player.
+
+#### /gc
+
+*Alias for [/lag](#lag).*
+
+#### /ptime
+
+*Alias for [/playertime](#playertime).*
+
+#### /tpohere
+
+Teleport player, overriding [/tptoggle](#tptoggle) prefrences.
+
+#### /map
+
+*Alias for [/squaremap](#squaremap).*
+
+#### /rest
+
+Resets time since player slept to 0.
+
+#### /burn
+
+Light someone on fire.
+
+#### /op
+
+All your base are belong to us.
+
+#### /potion
+
+Manage potion effects.
+
+#### /storm
+
+Set the weather to stormy.
+
+#### /break
+
+Break the block you are looking at.
+
+#### /more
+
+Refills what you are holding in your hand to a full stack.
+
+#### /cartographytable
+
+Opens a cartography table.
+
+#### /unlimited
+
+Allow unlimited placing of items.
+
+#### /i
+
+*Alias for [/give](#give).*
+
+#### /pweather
+
+*Alias for [/playerweather](#playerweather).*
+
+#### /kill
+
+Commit murder.
+
+#### /itemdb
+
+Shows information about the item you are holding.
+
+#### /createkit
+
+Create a kit.
+
+#### /fly
+
+Fly.
+
+#### /tpo
+
+Teleport, overriding [/tptoggle](#tptoggle) prefrences.
+
+#### /depth
+
+View your altitude in relation to sea level.
+
+#### /cw
+
+Manage the Command Whitelist.
+
+#### /broadcastworld
+
+Broadcast, but only to players in the specified world.
+
+#### /enchant
+
+Enchant the item you or another player are holding.
+
+#### /xp
+
+*Alias for [/exp](#exp).*
+
+#### /time
+
+Manage the time.
