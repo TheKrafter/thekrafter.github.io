@@ -9,5 +9,5 @@ Documentation for Tulip SMP players and staff.
 ## Pages
 
 - [Commands](/tulipsmp/docs/commands/)
-- [Staff Guidelines](/tulipsmp/docs/staffguide/)
+- [Staff Guide](/tulipsmp/docs/staffguide/)
 - [Permissions](/tulipsmp/docs/permissions)
