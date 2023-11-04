@@ -10,4 +10,10 @@ This page DOES NOT include *how* these tools should be used. For that, see the [
 
 ### Tools
 
+##### Discord
+
 - [Tiramisu](staff/tiramisu)
+
+##### Minecraft
+
+- [AuxProtect and CoreProtect](staff/ap-and-co)
