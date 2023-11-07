@@ -12,4 +12,4 @@ CoreProtect primarily is used for inspecting and rolling back changes to the phy
 
 ### AuxProtect
 
-*WIP*
+AuxProtect is primarily used for restoring items in one's inventory that have been lost. For more information, view the [AuxProtect Wiki](https://github.com/ks-hl/AuxProtect/wiki/Commands).

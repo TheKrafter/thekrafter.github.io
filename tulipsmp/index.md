@@ -5,9 +5,11 @@ A tight-knit community of passionate players trying to find solace in this peril
 ## Resources
 
 - [Guidelines](guidelines)
+- [Punishment Guidelines](guidelines/punishments)
 - [Documentation](docs)
 - [Map](https://tulip.krafterdev.xyz/)
 - [Support Tulip!](support)
+- [Staff Guide](docs/staffguide)
 
 ## Invite Only
 
