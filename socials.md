@@ -1,6 +1,3 @@
----
-permalink: /socials
----
 # Krafter
 ## Wanna hang? 
 Here are most of my socials:
@@ -27,6 +24,8 @@ Discord is the best way to contact me, but I wont accept random Friend Requests.
 
 ## See Also
 If u wanna know what I'm reading, check out [my reading list](/reading-list)
+
+Or, to check out stuff I'm writing, check out [Krafter's Thoughts](https://write.krafterdev.xyz)
 
 ## Donate
 
