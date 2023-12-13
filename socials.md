@@ -10,6 +10,7 @@ Here are most of my socials:
 * Matrix: __@krafter:matrix.org__
 * GitHub: __[TheKrafter](https://github.com/TheKrafter)__
 * GitLab: __[TheKrafter](https://gitlab.com/TheKrafter)__
+* GNOME GitLab: __[krafter](https://gitlab.gnome.org/krafter)__
 * Last.fm: __[Krafter2217](https://last.fm/user/Krafter2217)__
 * PCPartPicker: __[KrafterWantsaPC](https://pcpartpicker.com/user/KrafterWantsaPC/)__
 
