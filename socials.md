@@ -34,10 +34,6 @@ Like what I do? I'd love your support on ko-fi!
 
 ### [ko-fi.com/krafter](https://ko-fi.com/krafter)
 
-## Listening To...
-
-<iframe src="https://descent.live/krafter2217" allow="none">Cannot display listening to without iframe support.</iframe>
-
 ---
 
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
