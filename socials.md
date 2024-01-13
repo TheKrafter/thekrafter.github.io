@@ -1,6 +1,3 @@
----
-permalink: /socials
----
 # Krafter
 ## Wanna hang? 
 Here are most of my socials:
@@ -13,6 +10,7 @@ Here are most of my socials:
 * Matrix: __@krafter:matrix.org__
 * GitHub: __[TheKrafter](https://github.com/TheKrafter)__
 * GitLab: __[TheKrafter](https://gitlab.com/TheKrafter)__
+* GNOME GitLab: __[krafter](https://gitlab.gnome.org/krafter)__
 * Last.fm: __[Krafter2217](https://last.fm/user/Krafter2217)__
 * PCPartPicker: __[KrafterWantsaPC](https://pcpartpicker.com/user/KrafterWantsaPC/)__
 
@@ -28,11 +26,17 @@ Discord is the best way to contact me, but I wont accept random Friend Requests.
 ## See Also
 If u wanna know what I'm reading, check out [my reading list](/reading-list)
 
+Or, to check out stuff I'm writing, check out [Krafter's Thoughts](https://write.krafterdev.xyz)
+
 ## Donate
 
 Like what I do? I'd love your support on ko-fi!
 
 ### [ko-fi.com/krafter](https://ko-fi.com/krafter)
+
+## Listening To...
+
+<iframe src="https://descent.live/krafter2217" allow="none">Cannot display listening to without iframe support.</iframe>
 
 ---
 

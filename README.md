@@ -18,6 +18,8 @@ PC enthusiast? [I am too!](/pc) I mostly watch [LTT](https://www.youtube.com/c/L
 
 ### [Check out my Socials](/socials)
 
+### [Krafter's Thoughts - Writing on the Fedi](https://write.krafterdev.xyz)
+
 ---
 
 [![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
