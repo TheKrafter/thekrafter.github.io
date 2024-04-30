@@ -6,7 +6,7 @@ Here are most of my socials:
 * Reddit: __[u/TheKrafter2217](https://reddit.com/user/TheKrafter2217)__
 * Kbin: __[Krafter`@kbin.social`](https://kbin.social/u/Krafter)__
 * Mastodon: __<a href="https://fosstodon.org/@krafter" rel="me">`@krafter@fosstodon.org`</a>__
-* Polymaths.social (GoToSocial): __<a href="https://alpha.polymaths.social" rel="me">`@krafter@alpha.polymaths.social`</a>__ [Alpha]
+* Polymaths.social (GoToSocial): __<a href="https://alpha.polymaths.social/@krafter" rel="me">`@krafter@alpha.polymaths.social`</a>__ [Alpha]
 * Matrix: __@krafter:matrix.org__
 * GitHub: __[TheKrafter](https://github.com/TheKrafter)__
 * GitLab: __[TheKrafter](https://gitlab.com/TheKrafter)__
