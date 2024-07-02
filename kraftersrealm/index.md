@@ -14,12 +14,12 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 
 ### Guides
 
-* [ArtMap (Painting) How-To](/kraftersrealm/artmap)
+* [Images on Maps](/kraftersrealm/imgageframe)
 * [Claiming Guide](/kraftersrealm/claims)
 * [Shopkeepers](/kraftersrealm/shopkeepers)
+<!--* [ArtMap (Painting) How-To](/kraftersrealm/artmap)-->
 
 ### Other Resources
 
 * [Extra Crafting Recipies](/kraftersrealm/crafting)
 * [Joining on Console](/kraftersrealm/consoles)
-* [Server Wishlist](/kraftersrealm/wishlist)
