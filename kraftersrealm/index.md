@@ -11,7 +11,7 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 
 ### Features
 
-* [Images on Maps](/kraftersrealm/imgageframe)
+* [Images on Maps](/kraftersrealm/imageframe)
 * [Claiming Guide](/kraftersrealm/claims)
 * [Shopkeepers](/kraftersrealm/shopkeepers)
 * [Tweaks](/kraftersrealm/tweaks)
