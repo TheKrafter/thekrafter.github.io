@@ -7,6 +7,5 @@ List of non-standard "tweaks" to the game from the *[Tweakin](https://www.spigot
 - Use `/as` when looking at an armor stand to easily edit its position
 - Name an armor stand with a name tag
 - Shift and right click on an armor stand to swap armor sets
-- Combine Elytra and Chestplate in an anvil, drop an anvil on the item to separate
 - You can bone meal cacti, netherwart, and sugarcane
 - Use `/togglehud` to toggle displaying coordinates, direction, and ingame time
