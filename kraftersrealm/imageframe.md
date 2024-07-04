@@ -3,8 +3,10 @@
 
 Thanks to the *ImageFrame* plugin, you can upload images and put them on maps within our world.
 
-- [Get an existing ImageMap
-- [Create ImageMaps](#create)
+- [Get an existing ImageMap](#get-an-existing-image)
+- [Create ImageMaps](#create-imagemaps)
+- [Markers](#markers)
+- [All Commands](#all-commands)
 
 ### Get an existing image
 
@@ -49,8 +51,6 @@ Use the command, and then right-click where to place it on the image map.
 - `<direction>`: the rotation of the banner icon, 0-15
 - `<marker_type>`: the type of marker to place (i.e. banner_red, red_x, ...)
 - `[caption]`: (optional) the label for the marker on the map
-
-### Permissions
 
 ### All Commands
 
