@@ -17,3 +17,7 @@
 - Coordinates, direction, and ingame time are shown above your hotbar. Use `/togglehud` to turn this on or off
 - You can make nether portals in custom shapes
 - Use shears on an item frame to make it invisible (while it has an item in it)
+- You can get leather by smelting rotten flesh
+- You can craft a nametag like so:
+  
+  ![string, paper, ink sac](https://github.com/TheKrafter/thekrafter.github.io/assets/75903664/ff0bb07a-76be-4357-815b-09d79ac764e6)
