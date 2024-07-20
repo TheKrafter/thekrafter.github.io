@@ -4,7 +4,12 @@
  
 I do a bit of contribution to FOSS projects, because there are so many great projects our there ([see my GitHub Stars](https://github.com/TheKrafter?tab=stars))
 
-I am a Linux user, and I use [Fedora](https://getfedora.org) on my desktop and laptop. My phone is a [OnePlus 6](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)) running [postmarketOS](https://postmarketos.org/) (at time of writing) and I must say Mobile Linux has been amazing so far, if you know enough about Linux so solve small issues and don't rely on any proprietary Android/iOS apps. I self-host a few things for myself aswell, but nothing too important. 
+I am a Linux user, and I use [Fedora](https://getfedora.org) on my desktop and laptop. My phone is a OnePlus 7 running [LineageOS for microG](http://lineage.microg.org/). I self-host a few things for myself aswell on a Fedora Server system at home, and a debian proxy on Contabo:
+- [ActualBudget](https://actualbudget.org/)
+- [Nextcloud](https://nextcloud.com/)
+- [Airsonic](https://airsonic.github.io/)
+- Minecraft ([Paper](https://papermc.io/software/paper), behind [Velocity](https://papermc.io/software/paper))
+- [UptimeKuma](https://uptime.kuma.pet/)
 
 I also play games! Well, I really just play minecraft. Sometimes modded, usually vanilla. [This is the pack I use for vanilla servers](/files/mc-client/krafter-mcpack-v0.1.zip), based on [trainb0y's better visuals](https://modrinth.com/modpack/trainb0ys-visual-pack).
 
