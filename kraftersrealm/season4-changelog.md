@@ -20,4 +20,4 @@
 - You can get leather by smelting rotten flesh
 - You can craft a nametag like so:
   
-  ![string, paper, ink sac](https://github.com/TheKrafter/thekrafter.github.io/assets/75903664/ff0bb07a-76be-4357-815b-09d79ac764e6)
+ ![string, paper](https://github.com/user-attachments/assets/fbcbaea3-4b52-44c0-9e9a-cf45cd9991a3)
