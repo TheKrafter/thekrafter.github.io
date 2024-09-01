@@ -6,7 +6,7 @@ Minecraft Bedrock edition for consoles does not officially support third-party s
 However, here is the reccommended way to join if you *must* use a console:
 
 1. Find the DNS settings in your console's settings
-2. Change the DNS server IP to either `173.82.100.84` or `104.238.130.180`. 
+2. Change the DNS server IP to either `173.82.100.84` or `104.238.130.180`. Set the secondary DNS server to `1.1.1.1`.
 3. In Minecraft, go to the Servers tab, and join any one of the Featured Servers
 4. Now, instead of joining a featured server, you should see a menu appear with the list of featured servers and a button that says "Connect to a Server" at the top
 5. Click on "Connect to a Server", and type in __realm.krafterdev.xyz__ for the IP, and `19132` for the Port. Make sure to turn on "add to server list"
