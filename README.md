@@ -1,6 +1,9 @@
-# Krafter
-
+---
+layout: default
+---
 ## Hey! I'm Krafter.
+
+> **⚠️ I'm currently redoing this site!** Please bear with me.
  
 I do a bit of contribution to FOSS projects, because there are so many great projects our there ([see my GitHub Stars](https://github.com/TheKrafter?tab=stars))
 

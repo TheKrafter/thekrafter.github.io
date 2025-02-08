@@ -1,4 +1,7 @@
-# Krafter
+---
+layout: default
+title: Krafter's Reading List
+---
 
 ## My Reading List
 Contents:
@@ -28,7 +31,3 @@ Contents:
 - *The Man Who was Thursday* by G. K. Chesterton
 - *The Abolition of Man* by C. S. Lewis
 - *The Rust Programming Language* by Steve Klabnik, Carol Nichols, et al.
-
----
-
-[![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)

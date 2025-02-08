@@ -1,4 +1,7 @@
-# Krafter
+---
+layout: default
+title: Krafter's Socials
+---
 ## Wanna hang? 
 Here are most of my socials:
 
@@ -33,7 +36,3 @@ Or, to check out stuff I'm writing, check out [Krafter's Thoughts](https://write
 Like what I do? I'd love your support on ko-fi!
 
 ### [ko-fi.com/krafter](https://ko-fi.com/krafter)
-
----
-
-[![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
