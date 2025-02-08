@@ -1,9 +1,9 @@
-title: krafterdev.xyz
+title: Krafter
 description: "Krafter's little corner of the internet"
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 markdown: GFM
 show_downloads: false
 github:
   is_project_page: false
-plugins:
-- jekyll-remote-theme
+#plugins:
+#- jekyll-remote-theme

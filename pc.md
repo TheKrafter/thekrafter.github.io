@@ -1,10 +1,11 @@
 ---
-permalink: /pc
+layout: default
+title: Krafter's PC
 ---
 # Krafter's Setup
-## [Yes, I built my own PC, how could you tell?](/src/997b08a8d833988619ef9e6cea4233d0-1617554580.jpg)
+I love building computers! This is mine:
 
-Anyways, here is my
+
 [PCPartPicker Part Build](https://pcpartpicker.com/list/HWj6yK):
 
 Type|Item|Price
@@ -31,10 +32,7 @@ Type|Item|Price
 **Headphones** | [Drop + Koss GMR-54X-ISO Gaming Headset](https://drop.com/buy/drop-x-koss-gmr-54x-iso-gaming-headset) | $29.00 @ DROP.com
 **Speakers** | Creative Inspire T3030 | $0.00 @ A Friend
 
-#
+---
+
 ### That's cool Krafter, wish i could do that :(.
 Sorry? What did you say? You wish you could do that? Well hurry up and get your head out of the clouds. __YOU CAN DO THIS__. Save up a bit, and research how to buy and build a PC– its really not that hard if you have the right instruction. I reccommend [this feature-film length yt vid](https://www.youtube.com/watch?v=BL4DCEp7blY) dubbed "How to build a PC, the Last guide you'll ever need" by Linus Tech Tips. It's a bit long at 1hr 42mins, but it should give you all the instruction you need for getting started with a PC.
-
-#
-
-[![Licensed Under The CC-BY-NC-ND 4.0 License](/src/CC-BY-NC-ND.png)](/LICENSE)
