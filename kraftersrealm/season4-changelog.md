@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Season 4 Changelog
+---
 # Season 4 Changelog
 
 *Changes since Season 3.*

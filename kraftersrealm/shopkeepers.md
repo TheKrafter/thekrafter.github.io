@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Shopkeepers
+---
 # Shopkeepers
 - [Back](/kraftersrealm)
 

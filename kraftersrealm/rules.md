@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Rules
+---
 # Krafter's Realm Rules
 - [Back](/kraftersrealm)
 

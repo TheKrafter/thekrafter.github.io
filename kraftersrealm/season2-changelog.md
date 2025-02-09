@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Season 2 Changelog
+---
 # Krafter's Realm Season 2 Changelog
 All of the things we've changed in Season 2 of the SMP:
 

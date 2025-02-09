@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Claims
+---
 # Claims
 - [Back](/kraftersrealm)
 

@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Images on Maps
+---
 # Images on Maps
 - [Back](/kraftersrealm)
 

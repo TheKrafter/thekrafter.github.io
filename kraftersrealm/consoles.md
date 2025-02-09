@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Joining on Console
+---
 # Joining on Consoles
 - [Back](/kraftersrealm)
 

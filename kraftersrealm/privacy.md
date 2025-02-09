@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Player Analytics
+---
 # Player Analytics
 
 This server uses Plan, a Player Analytics platform.

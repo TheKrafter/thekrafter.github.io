@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Tweaks
+---
 # Tweaks
 - [Back](/kraftersrealm)
 

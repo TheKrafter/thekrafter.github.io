@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Home
+---
 # Krafter's Realm
 A minecraft server for me and my friends to have fun in!
 

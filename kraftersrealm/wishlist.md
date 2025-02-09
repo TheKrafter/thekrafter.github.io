@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Wishlist
+---
 # Server Wishlist
 - [Back](/kraftersrealm)
 

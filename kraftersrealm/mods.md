@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Rules for Minecraft Mods
+---
 # Rules for Minecraft Mods
 - [Back](/kraftersrealm)
 

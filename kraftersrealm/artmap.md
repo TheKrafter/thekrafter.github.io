@@ -1,3 +1,7 @@
+---
+layout: realm
+title: ArtMap How-To Guide
+---
 # ArtMap How-To guide
 - [Back](/kraftersrealm)
 

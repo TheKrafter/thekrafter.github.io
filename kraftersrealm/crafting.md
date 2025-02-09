@@ -1,3 +1,7 @@
+---
+layout: realm
+title: Crafting Recipies
+---
 # Crafting Recipies
 - [Back](/kraftersrealm)
 
