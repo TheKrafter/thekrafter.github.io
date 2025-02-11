@@ -1,0 +1,86 @@
+/* 
+Copyright (c) 2025 Krafter Developer
+
+https://krafterdev.xyz/
+*/
+
+/* Colors */
+$primary: #183512;
+$secondary: #5d9452;
+$text: #bdbdbd;
+$text_secondary: #a7caa0;
+
+/* Sizes */
+$med_screen: 800px;
+
+/* Mixins */
+@mixin main_theme {
+    background-color: $primary;
+    color: $text;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    hr {
+        color: $secondary;
+        border-color: $secondary;
+        max-width: 60%;
+    };
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bolder;
+    };
+    blockquote {
+        padding: 8px;
+        background-color: darken($color: $primary, $amount: 2);
+        border-radius: 7px;
+    };
+    a {
+        color: $text_secondary;
+    }
+}
+
+/* Themes */
+
+body {
+    @include main_theme();
+}
+
+div#content {
+    padding-bottom: 100px;
+
+    h1 {
+        text-align: center;
+    }
+    p, ul {
+        text-align: left;
+        padding-left: 5%;
+        padding-right: 5%;
+    };
+
+    ul {
+        margin-left: 30px;
+    }
+
+    @media screen and (min-width: $med_screen) {
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+}
+
+div#footer {
+    ul {
+        list-style-type: none;
+        margin-left: 0px;
+        align-items: center;
+
+        li {
+            display: inline-block;
+        }
+    }
+    img {
+        padding-top: 15px;
+    }
+}

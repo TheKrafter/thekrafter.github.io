@@ -1,7 +1,7 @@
 title: Krafter
 description: "Krafter's little corner of the internet"
 #theme: jekyll-theme-midnight
-markdown: GFM
+markdown: kramdown
 show_downloads: false
 github:
   is_project_page: false
