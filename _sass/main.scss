@@ -16,24 +16,37 @@ $light_text: darken($text, 75);
 $light_text_secondary: darken($text_secondary, 60);
 
 /* Sizes */
-$med_screen: 800px;
+$large_screen: 102em;
+$med_screen: 85em;
+$small_screen: 56em;
 
 /* Mixins */
 @mixin main_theme {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 12pt;
+    /*font-size: 1em;*/
     text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
 
-    hr {
-        max-width: 60%;
-    };
     h1 {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bolder;
     };
 
+}
+
+@mixin desktop_sizing {
+    padding-left: 10%;
+    padding-right: 10%;
+    hr {
+        max-width: 60%;
+    }
+}
+
+@mixin mobile_sizing {
+    padding-left: 5%;
+    padding-right: 5%;
+    hr {
+        max-width: 70%;
+    }
 }
 
 @mixin dark_colors {
@@ -67,7 +80,7 @@ $med_screen: 800px;
     }
 }
 
-/* Themes */
+/* Media Queries */
 @media (prefers-color-scheme: light) {
     :root {
         @include light_colors()
@@ -82,6 +95,17 @@ $med_screen: 800px;
     @include main_theme();
 }
 
+
+:root {
+    @include desktop_sizing();
+}
+@media (max-width: $med_screen) {
+    :root {
+        @include mobile_sizing();
+    }
+}
+
+/* Specific Styles */
 div#header {
     img.profile {
         border-radius: 10px;
@@ -113,9 +137,17 @@ div#content {
     }
 
     & {
+        @media screen and (min-width: $large_screen) {
+            padding-left: 50%;
+            padding-left: 50%;
+        }
         @media screen and (min-width: $med_screen) {
-            padding-left: 25%;
-            padding-right: 25%;
+            padding-left: 40%;
+            padding-right: 40%;
+        }
+        @media screen and (min-width: $small_screen) {
+            padding-left: 20%;
+            padding-right: 20%;
         }
     }
 }
