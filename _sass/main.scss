@@ -7,16 +7,19 @@ https://krafterdev.xyz/
 /* Colors */
 $primary: #183512;
 $secondary: #5d9452;
+$accent: #ff853e;
 $text: #bdbdbd;
 $text_secondary: #a7caa0;
+
+$light_background: #dbe4d5;
+$light_text: darken($text, 60);
+$light_text_secondary: darken($text_secondary, 50);
 
 /* Sizes */
 $med_screen: 800px;
 
 /* Mixins */
 @mixin main_theme {
-    background-color: $primary;
-    color: $text;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 12pt;
     text-align: center;
@@ -24,28 +27,70 @@ $med_screen: 800px;
     padding-right: 10%;
 
     hr {
-        color: $secondary;
-        border-color: $secondary;
         max-width: 60%;
     };
     h1 {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bolder;
     };
-    blockquote {
-        padding: 8px;
-        background-color: darken($color: $primary, $amount: 2);
-        border-radius: 7px;
-    };
+
+}
+
+@mixin dark_colors {
+    background-color: $primary;
+    color: $text;
+
+    hr {
+        color: $secondary;
+        border-color: $secondary;
+    }
     a {
         color: $text_secondary;
+    }
+    blockquote {
+        background-color: darken($primary, 2);
+    }
+}
+
+@mixin light_colors {
+    background-color: $light_background;
+    color: $light_text;
+
+    hr {
+        color: $primary;
+    }
+    a {
+        color: $light_text_secondary;
+    }
+    blockquote {
+        background-color: darken($light_background, 8);
     }
 }
 
 /* Themes */
-
-body {
+@media (prefers-color-scheme: light) {
+    :root {
+        @include light_colors()
+    }
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        @include dark_colors()
+    }
+}
+:root {
     @include main_theme();
+}
+
+div#header {
+    img.profile {
+        border-radius: 10px;
+        border-width: 4px;
+        border-color: $accent;
+        border-style: solid;
+
+        margin-top: 60px;
+    }
 }
 
 div#content {
@@ -58,22 +103,26 @@ div#content {
         text-align: left;
         padding-left: 5%;
         padding-right: 5%;
-    };
-
+    }
     ul {
         margin-left: 30px;
     }
+    blockquote {
+        padding: 8px;
+        border-radius: 7px;
+    }
 
-    @media screen and (min-width: $med_screen) {
-        padding-left: 25%;
-        padding-right: 25%;
+    & {
+        @media screen and (min-width: $med_screen) {
+            padding-left: 25%;
+            padding-right: 25%;
+        }
     }
 }
 
 div#footer {
     ul {
         list-style-type: none;
-        margin-left: 0px;
         align-items: center;
 
         li {
@@ -82,5 +131,8 @@ div#footer {
     }
     img {
         padding-top: 15px;
+    }
+    h7 {
+        margin-top: 40px;
     }
 }

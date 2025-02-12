@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Krafter Dev.
 ---
 ## Hey! I'm Krafter.
 
