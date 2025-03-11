@@ -10,9 +10,11 @@ Contents:
 - [To Read](#to-read)
 
 ### In Progress
-- *Beloved* by Toni Morrison
+- *Till We Have Faces* by C. S. Lewis (Re-Reading)
 
 ### Recent Interesting Reads
+- *Beloved* by Toni Morrison
+- *The Man Who was Thursday* by G. K. Chesterton
 - The Space Trilogy (by C. S. Lewis)
     - *Out of the Silent Planet* by C. S. Lewis
     - *Perelandra* by C. S. Lewis
@@ -25,6 +27,5 @@ Contents:
 - *The Fellowship of the Ring*  by J. R. R. Tolkien
 - *The Two Towers*  by J. R. R. Tolkien
 - *The Return of the King*  by J. R. R. Tolkien
-- *The Man Who was Thursday* by G. K. Chesterton
 - *The Abolition of Man* by C. S. Lewis
 - *The Rust Programming Language* by Steve Klabnik, Carol Nichols, et al.

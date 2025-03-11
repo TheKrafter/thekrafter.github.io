@@ -9,16 +9,15 @@ I love transit! If you want to know *why* transit is better than your car, check
 These are all the rail transit systems I've been on:
 
 - Auckland Transport Commuter Rail (Auckland, NZ)
-- Airport Transit System, O'Hare (Chicago, US)
 - London Underground, Circle and Hammersmith & City Lines (London, UK)
 - Paris Metro (Paris, FR)
 - Paris RER (Paris, FR)
 - MetroLink (St. Louis, US)
+- Amtrak (Midwest US)
+- Chicago 'L' (Chicago, IL)
 
 And here are the ones I want to ride some day:
 
-- Amtrak (US)
-- Chicago 'L' (US)
 - National Rail (UK)
 - Elizabeth Line (London, UK)
 - Glasgow Metro (Glasgow, UK)
