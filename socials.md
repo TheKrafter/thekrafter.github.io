@@ -3,12 +3,15 @@ layout: default
 title: Krafter's Socials
 ---
 ## Socials 
-Active accounts:
-* Polymaths.social (Fedi): __<a href="https://polymaths.social/@krafter" rel="me">`@krafter@polymaths.social`</a>__ *(If you need to contact me, contacting me on fedi is probably the best way to do so.)*
-* Matrix: __@krafter:matrix.org__
-* Discord: __krafter2217__ _(formerly __Krafter#9211__)_ *(I will probably not accept random friend requests here.)*
-* Last.fm: __[Krafter2217](https://last.fm/user/Krafter2217)__
-* GitHub: __[TheKrafter](https://github.com/TheKrafter)__
+
+#### Fediverse: __<a href="https://polymaths.social/@krafter" rel="me">`@krafter@polymaths.social`</a>__ *(Preferred)*
+
+Discord: __krafter2217__
+
+Last.fm: __[Krafter2217](https://last.fm/user/Krafter2217)__
+
+GitHub: __[TheKrafter](https://github.com/TheKrafter)__
+
 
 And some game usernames:
 * Minecraft Java: __[TheKrafter2217](https://namemc.com/profile/TheKrafter2217.1)__
@@ -18,6 +21,7 @@ And some game usernames:
 
 
 Inactive accounts:
+* Matrix: __krafter:matrix.org__
 * Reddit: __[u/TheKrafter2217](https://reddit.com/user/TheKrafter2217)__
 * Kbin: __[Krafter`@kbin.social`](https://kbin.social/u/Krafter)__
 * Mastodon: __<a href="https://fosstodon.org/@krafter" rel="me">`@krafter@fosstodon.org`</a>__
