@@ -1,15 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ page.title}} | Krafter's Realm</title>
+        <!-- Copyright (c) 2025 Krafter Developer. 
+         Content license CC-BY-NC-ND. 
+         HTML & CSS: fair use. 
+         All other files: all rights reserved, unless otherwise specified. -->
+        <meta charset="utf-8">
+        <title>{{ page.title }} | Krafter's Realm</title>
+        <link rel="stylesheet" href="{{ '/src/css/style.css' | absolute_url }}">
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:description" content="krafter's minecraft server" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="{{ '/src/img/krafter_pfp.png' | absolute_url }}" />
+        <meta property="og:image:alt" content="drawn profile picture of a red fox" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="80" />
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <meta name="author" content="Krafter">
     </head>
     <body>
-        {{ content }}
-        <hr>
-        <ul>
-            <li><a href="/kraftersrealm">Home</a></li>
-        </ul>
+        {% include realm_header.html %}
+        <div id="content" role="main">
+            {{ content }}
+        </div>
+        {% include realm_footer.html %}
     </body>
 </html>
