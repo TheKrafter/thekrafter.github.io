@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ page.title }}</title>
+        <!-- Copyright (c) 2025 Krafter Developer. 
+         Content license CC-BY-NC-ND. 
+         HTML & CSS: fair use. 
+         All other files: all rights reserved, unless otherwise specified. -->
+         <meta charset="utf-8">
+         <title>{{ page.title }}</title>
+         <link rel="stylesheet" href="{{ '/src/css/style.css' | absolute_url }}">
+         <meta property="og:title" content="{{ page.title }}" />
+         <meta property="og:type" content="website" />
+         <meta name="robots" content="noindex, nofollow">
+         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <meta name="language" content="English">
+         <meta name="author" content="Krafter">
     </head>
     <body>
         {{ content }}
