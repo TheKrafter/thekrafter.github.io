@@ -3,6 +3,14 @@ Copyright (c) 2025 Krafter Developer
 
 https://krafterdev.xyz/
 */
+@use 'sass:color';
+@use 'sass:math';
+
+/* Functions */
+
+@function darker($color, $amount) {
+    @return color.adjust($color, $lightness: math.percentage($number: $amount * -.01));
+}
 
 /* Colors */
 $primary: #183512;
@@ -12,8 +20,8 @@ $text: #bdbdbd;
 $text_secondary: #a7caa0;
 
 $light_background: #dbe4d5;
-$light_text: darken($text, 75);
-$light_text_secondary: darken($text_secondary, 60);
+$light_text: darker($text, 75);
+$light_text_secondary: darker($text_secondary, 60);
 
 /* Sizes */
 $large_screen: 102em;
@@ -61,7 +69,7 @@ $small_screen: 56em;
         color: $text_secondary;
     }
     blockquote {
-        background-color: darken($primary, 2);
+        background-color: darker($primary, 7);
     }
 }
 
@@ -76,7 +84,7 @@ $small_screen: 56em;
         color: $light_text_secondary;
     }
     blockquote {
-        background-color: darken($light_background, 8);
+        background-color: darker($light_background, 2);
     }
 }
 
