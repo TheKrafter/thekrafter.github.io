@@ -5,14 +5,14 @@ title: Krafter's Reading List
 
 ## My Reading List
 Contents:
-- [Recent and Interesting](#recent-interesting-reads)
+- [Recent Favorites](#recent-favorites)
 - [In Progress](#in-progress)
 - [To Read](#to-read)
 
 ### In Progress
 - *Till We Have Faces* by C. S. Lewis (Re-Reading)
 
-### Recent Interesting Reads
+### Recent Favorites
 - *Beloved* by Toni Morrison
 - *The Man Who was Thursday* by G. K. Chesterton
 - The Space Trilogy (by C. S. Lewis)
@@ -20,7 +20,9 @@ Contents:
     - *Perelandra* by C. S. Lewis
     - *That Hideous Strength* by C. S. Lewis
 - *Till We Have Faces* by C. S. Lewis
+<!--
 - *The Grapes of Wrath* by John Steinbeck
+-->
 
 ### To Read
 - *The Hobbit (or There and Back Again)* by J. R. R. Tolkien
