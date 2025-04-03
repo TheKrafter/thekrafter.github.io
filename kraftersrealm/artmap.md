@@ -3,7 +3,6 @@ layout: realm
 title: ArtMap How-To Guide
 ---
 # ArtMap How-To guide
-- [Back](/kraftersrealm)
 
 This is a guide on how to use ArtMap! Our thing for drawing art. You can view their full wiki [here](https://gitlab.com/BlockStack/ArtMap/-/wikis/).
 

@@ -3,7 +3,6 @@ layout: realm
 title: Claims
 ---
 # Claims
-- [Back](/kraftersrealm)
 
 Krafter's Realm has a claims system called GreifPrevention that makes keeping your builds safe from being destroyed or modified by others. This guide goes through all you need to know to get started.
 

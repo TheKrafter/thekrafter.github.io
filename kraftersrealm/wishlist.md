@@ -3,7 +3,6 @@ layout: realm
 title: Wishlist
 ---
 # Server Wishlist
-- [Back](/kraftersrealm)
 
 This page lists possible upgrades for server hardware. If you want to support the server financially, this is what we need:
 

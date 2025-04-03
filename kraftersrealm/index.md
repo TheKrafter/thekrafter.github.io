@@ -23,6 +23,5 @@ This server is an invite-only server for my personal IRL friends and their IRL f
 ### Other Resources
 
 * [Joining on Console](/kraftersrealm/consoles)
-
 * [Season 2 Changelog](season2-changelog)
 * [Season 4 Changelog](season4-changelog)

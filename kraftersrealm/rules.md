@@ -3,10 +3,8 @@ layout: realm
 title: Rules
 ---
 # Krafter's Realm Rules
-- [Back](/kraftersrealm)
 
 These are rules for the Krafter's Realm minecraft server and accompanying discord server.
-
 
 1. No griefing, stealing, or cheating - just because it's unclaimed doesn't mean it's fair game.
 2. Respect others - like, seriously. don't be a prick.

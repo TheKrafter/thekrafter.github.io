@@ -3,7 +3,6 @@ layout: realm
 title: Images on Maps
 ---
 # Images on Maps
-- [Back](/kraftersrealm)
 
 Thanks to the *ImageFrame* plugin, you can upload images and put them on maps within our world.
 

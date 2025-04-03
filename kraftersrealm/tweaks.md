@@ -3,7 +3,6 @@ layout: realm
 title: Tweaks
 ---
 # Tweaks
-- [Back](/kraftersrealm)
 
 List of non-standard "tweaks" to the game from the *[Tweakin](https://www.spigotmc.org/resources/tweakin.93444/)* plugin:
 - Use shears on an item frame (containing an item or map) invisible

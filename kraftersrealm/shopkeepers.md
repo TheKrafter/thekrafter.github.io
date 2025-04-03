@@ -3,7 +3,6 @@ layout: realm
 title: Shopkeepers
 ---
 # Shopkeepers
-- [Back](/kraftersrealm)
 
 Shopkeepers allow people to buy stuff from you at a fixed price even while you're not on, and if they're not trusted in your claim.
 
