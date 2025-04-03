@@ -4,7 +4,7 @@ title: Krafter's Socials
 ---
 ## Socials 
 
-#### Fediverse: __<a href="https://polymaths.social/@krafter" rel="me">`@krafter@polymaths.social`</a>__ *(Preferred)*
+**Fediverse:** __<a href="https://polymaths.social/@krafter" rel="me">`@krafter@polymaths.social`</a>__ *(Preferred)*
 
 Discord: __krafter2217__
 
