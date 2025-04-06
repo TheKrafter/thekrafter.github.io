@@ -7,3 +7,4 @@ github:
   is_project_page: false
 #plugins:
 #- jekyll-remote-theme
+excerpt_separator: <!--excerp-->
