@@ -10,9 +10,11 @@ Contents:
 - [To Read](#to-read)
 
 ### In Progress
+- *The Sun Also Rises* by Ernest Hemingway
 - *Till We Have Faces* by C. S. Lewis (Re-Reading)
 
 ### Recent Favorites
+- *Waiting for Godot* by Samuel Beckett
 - *Beloved* by Toni Morrison
 - *The Man Who was Thursday* by G. K. Chesterton
 - The Space Trilogy (by C. S. Lewis)
@@ -20,9 +22,6 @@ Contents:
     - *Perelandra* by C. S. Lewis
     - *That Hideous Strength* by C. S. Lewis
 - *Till We Have Faces* by C. S. Lewis
-<!--
-- *The Grapes of Wrath* by John Steinbeck
--->
 
 ### To Read
 - *The Hobbit (or There and Back Again)* by J. R. R. Tolkien
